@@ -32,7 +32,7 @@ _Note_ the filenames of the backup are given by their assigned slug.
 
 ## <a name='installation'></a>Installation
 
-1. Add the add-ons repository to your Hass.io instance: `https://github.com/overkill32/hassio-addons`.
+1. Add the add-ons repository to your Hass.io instance: `https://github.com/rccoleman/hassio-remote-backup`.
 1. Install the Remote Backup add-on.
 1. Configure the add-on with your SSH credentials and desired output directory
 (see configuration below).
